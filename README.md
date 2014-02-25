@@ -6,13 +6,13 @@ This one was written in Java. It is almost the same with the microsoft one.
 
 Start
 ----------
-![alt tag](https://github.com/yuany90/MineSweeper/blob/master/Capture.PNG)
+![alt tag](https://github.com/yuany90/MineSweeper/blob/master/Capture.PNG?raw=true)
 
 Play
 ----------
-![alt tag](https://github.com/yuany90/MineSweeper/blob/master/Capture1.PNG)
+![alt tag](https://github.com/yuany90/MineSweeper/blob/master/Capture2.PNG?raw=true)
 
 Lose
 ----------
-![alt tag](https://github.com/yuany90/MineSweeper/blob/master/Capture2.PNG)
+![alt tag](https://github.com/yuany90/MineSweeper/blob/master/Capture3.PNG?raw=true)
 
